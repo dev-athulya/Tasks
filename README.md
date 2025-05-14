@@ -1,16 +1,32 @@
-# task_assment
+# 🎬 Movie Search App - task_assment
 
-A new Flutter project.
+A Flutter application that allows users to search for movies using the TMDB (The Movie Database) API. Built using the BLoC pattern and clean architecture principles.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Search for movies by title
+- View movie poster, title, and release date
+- Pagination support
+- Detailed movie info screen
+- State management using BLoC
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code
+- A TMDB API key (free to register)
+
+---
+
+## 🔧 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/task_assment.git
+cd task_assment
+
